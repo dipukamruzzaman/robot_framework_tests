@@ -1,3 +1,4 @@
+![Robot Framework Tests](https://github.com/dipukamruzzaman/robot_framework_tests/actions/workflows/tests.yml/badge.svg)
 # Banking API Test Automation — Robot Framework
 
 A test automation project for a Banking REST API built with **Robot Framework** and **FastAPI**. 
